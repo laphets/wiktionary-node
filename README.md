@@ -1,4 +1,4 @@
-# wiktionary-node
+# A Node Based Wiktionary Parser 
 
 >  Look up words on [wiktionary.org](https://www.wiktionary.org/) in English. (Other languages will be supported futher)
 
