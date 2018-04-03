@@ -1,0 +1,42 @@
+{
+  "name": "wiktionary-node",
+  "version": "1.1.2",
+  "description": "The node parser for Wiktionary",
+  "main": "index.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laphets/wiktionary-node.git"
+  },
+  "keywords": [
+    "Node",
+    "Wiktionary",
+    "parser"
+  ],
+  "author": "Laphets",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laphets/wiktionary-node/issues"
+  },
+  "homepage": "https://github.com/laphets/wiktionary-node#readme",
+  "dependencies": {
+    "babel-runtime": "^6.26.0",
+    "cheerio": "^1.0.0-rc.2",
+    "unirest": "^0.5.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1"
+  }
+}
