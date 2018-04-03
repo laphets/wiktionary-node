@@ -7,10 +7,9 @@
 ```
 npm i wiktionary-node
 ```
-
 ## Usage in Node
 
-You can call wiktionary("someword") with an argument with somr word, and it will return a promise.
+You can call wiktionary("someword") with an argument with some word, and it will return a promise.
 
 ### Traditional Promise
 
@@ -21,7 +20,6 @@ wiktionary("word").then((result) => {
     console.log(result);
 }).catch((error) => {})
 ```
-
 ### Async Function
 
 ```js
