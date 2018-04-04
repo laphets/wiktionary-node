@@ -1,6 +1,6 @@
 {
   "name": "wiktionary-node",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "description": "The node parser for Wiktionary",
   "main": "index.js",
   "files": [
