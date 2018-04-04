@@ -1,5 +1,8 @@
 # A Node Based Wiktionary Parser 
 
+![npm](https://img.shields.io/npm/v/wiktionary-node.svg?style=flat)
+![npm](https://img.shields.io/npm/dw/wiktionary-node.svg)
+
 >  Look up words on [wiktionary.org](https://www.wiktionary.org/) in English. (Other languages will be supported futher)
 
 ## Install
