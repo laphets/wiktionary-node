@@ -2,8 +2,9 @@
 
 ![npm](https://img.shields.io/npm/v/wiktionary-node.svg?style=flat)
 ![npm](https://img.shields.io/npm/dw/wiktionary-node.svg)
+![node](https://img.shields.io/node/v/koa.svg)
 
->  Look up words on [wiktionary.org](https://www.wiktionary.org/) in English. (Other languages will be supported futher)
+>  Look up words on [wiktionary.org](https://www.wiktionary.org/) in English, and return a well-structed json. (Other languages will be supported futher)
 
 ## Install
 
