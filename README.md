@@ -6,6 +6,8 @@
 
 >  Look up words on [wiktionary.org](https://www.wiktionary.org/) in English, and return a well-structed json. (Other languages will be supported futher)
 
+Welcome to star this [project](https://github.com/laphets/wiktionary-node) on GitHub.
+
 ## Install
 
 ```
